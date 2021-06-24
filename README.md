@@ -2,9 +2,11 @@
 
 
 I am a sophomore in Computer Science and Engineering at **NIT Durgapur**.</br> 
-I specialise in software development in **Web Developement**.</br>
+I specialise in software development and **Web Developement**.</br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhakta-47&show_icons=true&theme=vue&locale=en&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhakta-47&hide=scss,css&show_icons=true&theme=dracula&locale=en&layout=compact)
+<br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api//?username=abhakta-47&show_icons=true&theme=dracula&locale=en&layout=compact)
 <br>
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=abhakta-47&theme=onedark&show_icons=true&count_private=true)<br> -->
 ### 🔭 I’m currently working on
