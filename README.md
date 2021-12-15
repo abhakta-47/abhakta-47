@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am a sophomore in Computer Science and Engineering at **NIT Durgapur**.</br> 
+I am a pre-final year in Computer Science and Engineering at **NIT Durgapur**.</br> 
 I specialise in software development and **Web Developement**.</br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhakta-47&hide=scss,css&show_icons=true&theme=dracula&locale=en&layout=compact)
@@ -10,7 +10,7 @@ I specialise in software development and **Web Developement**.</br>
 <br>
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=abhakta-47&theme=onedark&show_icons=true&count_private=true)<br> -->
 ### 🔭 I’m currently working on
-my self 🙃 as CSE studentand some projects
+my self 🙃 as CSE student and some projects
 <br>
 ### 📫 How to reach me:
 🔭 Hit me up on [Linkedin](https://www.linkedin.com/in/arnab-bhakta-a20b301b5/)</br>
